@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg864"
+   width="0.53623241in"
+   height="0.61573982in"
+   version="1.1"
+   viewBox="0 0 115.82621 132.9998"
+   sodipodi:docname="Tandy_Corporation_logo.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview35"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.6699558"
+     inkscape:cx="312.55144"
+     inkscape:cy="88.665602"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg864"
+     scale-x="2.25" />
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path1699"
+     d="m 58.9731,70.2668 a 25.414,17.657 0 0 0 -25.414,17.657 25.414,17.657 0 0 0 25.414,17.657 25.414,17.657 0 0 0 23.538,-11.029 l -0.10001,-0.02754 -7.7854,-2.1487 a 17.075,11.177 0 0 1 -15.654,6.7255 17.075,11.177 0 0 1 -17.074,-11.177 17.075,11.177 0 0 1 17.074,-11.177 17.075,11.177 0 0 1 15.095,5.9678 l 7.0365,-3.4499 a 25.414,17.657 0 0 0 -22.131,-8.9974 z"
+     stroke-width="0.133"
+     style="paint-order:normal" />
+  <path
+     id="path1527"
+     d="M 20.6371,101.3098 H 0.0011 v -16.105 h 25.442 z"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1525"
+     d="m 31.2861,67.3598 -5.3246,16.384 -25.96,0.12817 v -16.512 h 31.285"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1523"
+     d="M 31.1581,66.0278 H 0.0011 v -16.102 h 25.573 l 5.5839,16.102"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1521"
+     d="m 19.5841,31.9498 5.5839,16.643 H 0.003 v -16.643 h 19.583"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1519"
+     d="m 115.8231,14.9238 v 15.698 h -20.228 l 3.7364,-11.187 h -83.354 l 3.4745,11.056 H 0 v -15.567 h 115.82"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1517"
+     d="m 12.3891,132.9998 c -7.0633,0 -12.388,-5.0655 -12.388,-13.313 h 115.82 c 0,9.3203 -4.2519,13.313 -13.313,13.313 h -90.121"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1515"
+     d="m 103.4531,0 c 6.9156,0 12.371,5.1966 12.371,13.444 H 0.0041 C 0.0041,4.1237 4.2755,0 13.4651,0 h 89.989"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1513"
+     d="m 95.3331,31.9498 h 20.487 v 16.253 l -25.426,-0.14767 4.9373,-16.105"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1511"
+     d="m 84.5331,66.0278 5.3246,-16.64 25.96,0.14768 v 16.492 h -31.285"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1509"
+     d="m 84.8131,67.3598 h 31.008 v 16.125 h -25.426 l -5.5837,-16.125"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1507"
+     d="m 96.5231,101.3098 -5.8429,-16.64 h 25.146 v 16.64 h -19.304"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path1505"
+     d="m 0.0011,118.2298 v -15.587 h 20.505 l -3.4578,11.187 83.205,-0.13096 -3.586,-11.056 h 19.024 l 0.13096,15.587 h -115.82"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+  <path
+     id="path34"
+     d="m 81.6131,34.0758 h -19.304 v 28.105 h -8.2447 v -28.233 l -19.452,-0.12817 -0.13096,-7.5815 h 47.132 v 7.8379"
+     fill-rule="evenodd"
+     stroke-width="0.17733" />
+</svg>
